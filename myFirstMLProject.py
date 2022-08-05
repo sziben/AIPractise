@@ -1,5 +1,5 @@
 # STEP 1.1
-
+# test
 !git clone https://github.com/sorki/python-mnist
 !./python-mnist/bin/mnist_get_data.sh
 !pip3 install emnist
